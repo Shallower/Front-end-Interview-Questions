@@ -1,7 +1,7 @@
 《个人经历》来及vivo外包面试的几个问题
   1.盒子模型，padding理解及其是否属于border；
     答：http://www.runoob.com/css/css-boxmodel.html
-  2.闭包；
+  2.闭包；（闭包就是能够读取其他函数内部变量的函数）
     http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html
   3.数组去重，set除外的去重方法；
     数组去重：https://blog.csdn.net/qq_43071910/article/details/82877101
